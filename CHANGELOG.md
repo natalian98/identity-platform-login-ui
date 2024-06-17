@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.14.1](https://github.com/canonical/identity-platform-login-ui/compare/v0.14.0...v0.14.1) (2024-06-17)
+
+
+### Bug Fixes
+
+* group -&gt; parent/child relationship + add spaces for readability ([da553c4](https://github.com/canonical/identity-platform-login-ui/commit/da553c46155e078dd241a8366e547f349285447f))
+* update docker compose ([533a70c](https://github.com/canonical/identity-platform-login-ui/commit/533a70caee68fd0028f29510a510fcce9d306584))
+
 ## [0.14.0](https://github.com/canonical/identity-platform-login-ui/compare/v0.13.0...v0.14.0) (2024-04-30)
 
 
